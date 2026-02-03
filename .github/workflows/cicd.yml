@@ -18,7 +18,7 @@ jobs:
   build:
     uses: Ilaiya-ORG/Github_Actions_Shared_Templates/.github/workflows/javaPipeline.yaml@main
     with:
-      maven-version: "3.9.6"
+      maven-version: "3.9.6" 
       java-version: "17"
       
 
